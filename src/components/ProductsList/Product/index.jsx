@@ -15,7 +15,7 @@ export const Product = ({ product, addCart }) => {
           {product.category}
         </StyledText>
         <StyledText tag="p" font="body-600" color="#27ae60">
-          R$ {product.price.toFixed(2)}
+          R$ {product.price && product.price.toFixed(2)}
         </StyledText>
         <button
           type="button"
