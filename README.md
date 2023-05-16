@@ -2,7 +2,7 @@
 
 <p>O objetivo da aplicação é simular um carrinho de compras, onde é possível visualizar todos os produtos, adicionar e remover do carrinho e pesquisar produtos. Aplicação responsiva.</p>
 
-<p>As <strong>tecnologias</strong> utilizadas foram: JavaScript, React, Styled-Components, Axios, CSS, HTML</p>
+<p>As <strong>tecnologias</strong> utilizadas foram: JavaScript, React, Styled-Components, Axios, CSS, HTML.</p>
 
 <br/>
 
